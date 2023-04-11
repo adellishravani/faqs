@@ -1,0 +1,14 @@
+.bg {
+  background-color: antiquewhite;
+  padding: 15px;
+}
+.card {
+  background-color: rgb(194, 188, 166);
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+}
+.faqs {
+  color: darkgoldenrod;
+  font-size: 30px;
+}

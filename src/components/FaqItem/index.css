@@ -1,0 +1,12 @@
+.qdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.ans {
+  font-size: 25px;
+}
+.ques {
+  font-size: 30px;
+}
